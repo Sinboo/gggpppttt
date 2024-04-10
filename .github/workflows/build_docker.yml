@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/sinboo/gggpppttt
+  GHCR_REPO: ghcr.io/sinboo/myrenderapi
 
 jobs:
   main:
